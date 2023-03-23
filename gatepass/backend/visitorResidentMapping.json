@@ -1,0 +1,24 @@
+{
+  "visitorResidentMapping": [
+    {
+      "name": "Shyam",
+      "email": "hari@gmail.com",
+      "roomNumber": "123",
+      "purposeOfVisit": "Have breakfast",
+      "photo": "",
+      "residentId": 1,
+      "timestamp": "2023-03-21T15:48:17.763Z",
+      "id": 1
+    },
+    {
+      "name": "Pranav",
+      "email": "pranav@gmail.com",
+      "roomNumber": "123",
+      "purposeOfVisit": "To have breakfast",
+      "photo": "blob:http://localhost:3001/7df2ccd5-7228-411c-aca7-5244ba5aeeb0",
+      "residentId": 1,
+      "timestamp": "2023-03-23T09:52:29.535Z",
+      "id": 2
+    }
+  ]
+}

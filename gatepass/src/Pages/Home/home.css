@@ -1,0 +1,36 @@
+.home{
+    padding: 0;
+    min-height: 100vh;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #C2CAD0;  
+}
+
+.home__heading {
+
+    color: rgb(2, 40, 41);
+    font-family: 'Droid serif , serif';
+    font-size:36px;
+    font-weight: 400;
+    font-style: italic;
+    line-height: 44px;
+    text-align: center;
+}
+
+.home__image{
+     display: flex;
+    flex-direction: row;
+     align-items: center;
+     justify-content: center;
+     
+}
+
+.home__line {
+
+    margin-left: 100px;
+    height: 350px;
+    border: 2px solid whitesmoke;    
+}
